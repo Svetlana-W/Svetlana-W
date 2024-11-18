@@ -9,4 +9,4 @@ I gained firm foundational data management knowledge and skills through engageme
 My career is consistantly an adventure in learning and pushing boundaries. I am currently exploring my way towards blending my passion for data and blockchain technologies. 
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,r,postgres,mysql,aws,terraform,vscode,github,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,r,postgres,mysql,aws,anaconda,terraform,vscode,github,postman,flask&perline=6)](https://skillicons.dev)
