@@ -6,7 +6,7 @@ My curiosity and natural enthusiasm for solving problems brought me into biomedi
 
 I gained firm foundational data management knowledge and skills through engagement in the [Northcoders](https://northcoders.com/) Data Engineering bootcamp where I learned data structuring, organisation, processing, retrieving, storing, and data life cycle. I learned the fundamentals of SQL syntax and advanced SQL concepts. I applied my knowledge of SQL to study databases and their design, focusing on relational databases. I practised data table normalisation to optimise transaction databases by removing redundancy and increasing data integrity.
 
-My career is consistantly an adventure in learning and pushing boundaries. I am currently exploring my way towards blending my passion for data and blockchain technologies. I studied foundations of Blockchains, and recently I created my first blockchain, cryptocurrensy, and smart contract, using Python. At the moment I am studying Rust.
+My career is consistently an adventure in learning and pushing boundaries. I am currently exploring my way towards blending my passion for data and blockchain technologies. I studied the foundations of Blockchains, and recently, I created my first blockchain, cryptocurrency, and smart contract using Python. At the moment, I am studying Rust.
 
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,r,postgres,mysql,aws,anaconda,remix,terraform,vscode,github,postman,flask&perline=6)](https://skillicons.dev)
